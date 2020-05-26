@@ -1,0 +1,8 @@
+{
+  "mongodbURL": "mongodb://localhost:27017/userDemo",
+  "redisHost": "localhost",
+  "redisPort": 6379,
+  "sessionSecret": "some-secret-hash",
+  "port": 3000,
+  "env": "development"
+}
