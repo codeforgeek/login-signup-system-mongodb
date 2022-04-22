@@ -19,7 +19,7 @@
     "express": "^4.17.1",
     "express-session": "^1.17.1",
     "mongoose": "^5.9.16",
-    "nconf": "^0.10.0",
+    "nconf": "^0.11.4",
     "redis": "^3.0.2"
   }
 }
